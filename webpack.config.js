@@ -21,8 +21,6 @@ var config = {
         loader: "babel",
     }]
   }
-
-
-
 };
+
 module.exports = config; 
